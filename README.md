@@ -16,8 +16,8 @@ I'm sure it is, I've even written something like this before. I had a need
 and now I don't.
 
 To build 
-make
-sudo make install
+    make
+    sudo make install
 
 application will be placed in /usr/local/bin
 

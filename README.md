@@ -22,5 +22,8 @@ To build
 
 application will be placed in /usr/local/bin
 
-
+Future ideas
+* add flags to set the crypt type (currrently it's only sha512crypt)
+* add option to perform a dictionary test on the password entered
+* add option to test the password against local account usernames
 

@@ -15,7 +15,8 @@ Is it a duplicate of something that already exists?
 I'm sure it is, I've even written something like this before. I had a need
 and now I don't.
 
-To build 
+To build
+
     make
     sudo make install
 

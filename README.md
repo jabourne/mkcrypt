@@ -22,6 +22,8 @@ To build
 
 application will be placed in /usr/local/bin
 
+There is a [ 00docs/usage.md document ](00docs/usage.md)
+
 Future ideas
 * add flags to set the crypt type (currrently it's only sha512crypt)
 * add option to perform a dictionary test on the password entered
